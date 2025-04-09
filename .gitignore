@@ -1,0 +1,44 @@
+# Python virtual environments
+.venv/
+tunga_env/
+venv/
+env/
+ENV/
+
+# Large files
+*.zip
+OneDrive-2025-04-04.zip
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Visual Studio Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Model files
+*.pt
+*.pth
+*.h5
+*.pkl
+*.joblib
+
+# Logs
+logs/
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db

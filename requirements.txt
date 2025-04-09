@@ -1,0 +1,12 @@
+torch>=1.9.0
+numpy>=1.19.2
+pandas>=1.2.4
+matplotlib>=3.3.4
+scikit-learn>=0.24.2
+pandas==2.0.0
+numpy==1.24.3
+scikit-learn==1.2.2
+matplotlib==3.7.1
+openpyxl==3.1.2
+tqdm==4.65.0
+pillow==9.4.0  # For better animation support
