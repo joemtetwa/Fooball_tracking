@@ -8,6 +8,9 @@ ENV/
 # Large files
 *.zip
 OneDrive-2025-04-04.zip
+*.csv
+*.npy
+*.pt
 
 # Python bytecode
 __pycache__/
@@ -29,8 +32,6 @@ build/
 .idea/
 
 # Model files
-*.pt
-*.pth
 *.h5
 *.pkl
 *.joblib
@@ -42,3 +43,20 @@ logs/
 # OS-specific
 .DS_Store
 Thumbs.db
+
+# Visualizations
+visualizations/*
+enhanced_visualizations/*
+
+# Predictions
+predictions/*
+
+# Models
+models/*
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
